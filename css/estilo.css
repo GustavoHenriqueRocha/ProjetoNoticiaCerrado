@@ -40,7 +40,7 @@ ul{
 	margin: 0;
 	padding: 0;
 	list-style: none;
-	border-radius: 10px;
+	
 	
 }
 
@@ -49,8 +49,10 @@ ul{
 	background: #b10333;
 	margin-top: 30px;
 	float: left;
-	width: 550px;
+	width: 598,5px;
+	border-radius: 10px;
 }
+
 
 /* formatando os itens nma Hor */
 #topo ul li{
@@ -62,7 +64,7 @@ ul{
 #topo ul a{
 	font-size: 0.9em;
 	display: block;
-	padding: 0.5em 1.7em;
+	padding: 8px 28px;
 	line-height: 2.1em;
 	text-decoration: none;
 	color: #fff;
@@ -92,8 +94,8 @@ body.fotos #navegacao a#fotos
 	color: #fff;
 	background: #de003e;
 	cursor: text;
-
 }
+
 
 
 /* configura layout de tres colunas */
