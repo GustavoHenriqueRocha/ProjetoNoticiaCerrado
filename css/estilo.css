@@ -293,8 +293,32 @@ blockquote {
     position: relative;
 }
 
+/**tabela oleo de buriti**/
+.tabela{
+	background-color: #f8f9fa;
+    color: #202122;
+    margin: 1em;
+    border: 1px solid #a2a9b1;
+    border-collapse: collapse;
+}
 
+.tabela * > tr > td {
+    border: 1px solid #a2a9b1;
+    padding: 0.2em 0.4em;
+}
 
+.tabela * > tr > th {
+    background-color: #eaecf0;
+    text-align: center;
+}
+
+.tabela > tr > th,
+.tabela > tr > td,
+.tabela > * > tr > th,
+.tabela > * > tr > td{
+    border: 1px solid #a2a9b1;
+    padding: 0.2em 0.4em;
+}
 
 
 /* rodape */
