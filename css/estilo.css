@@ -211,9 +211,10 @@ img.imagem-secundaria{
    		font-size: 94%;
    		width: 260px;
    		height: 230px;
-   		padding: 5px;
-   		margin: 10px;
-}
+   		padding: 7px;
+   		margin: 12px;
+   		border-radius: 5px;
+} 
 
 .card2{
 	    border: 1px solid #c8ccd1;
@@ -221,8 +222,9 @@ img.imagem-secundaria{
    		font-size: 94%;
    		width: 260px;
    		height: 430px;
-   		padding: 5px;
-   		margin: 10px;
+   		padding: 8px;
+   		margin: 12px;
+   		border-radius: 5px;
 
 }
 
