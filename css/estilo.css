@@ -81,13 +81,11 @@ ul{
 }
 
 /* marcando a pagina atual */
-
-
 body.home #navegacao a#home,
 body.fauna #navegacao a#fauna,
 body.flora #navegacao a#flora,
-body.economia #navegacao a#economia,
-body.saude #navegacao a#saude,
+body.aplicativo #navegacao a#aplicativo,
+body.redacao #navegacao a#redacao,
 body.fotos #navegacao a#fotos
 {
 	border-radius: 10px;
