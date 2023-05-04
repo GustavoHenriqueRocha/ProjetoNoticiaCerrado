@@ -197,7 +197,7 @@ input.submit{
 }
 
 
-/*Formatando imagens*/
+/*Formatando imagens issaq é bem inutil mais fica boitinho*/
 img.imagem-principal{
 	width: 98%;
 	border: 3px solid #dfdfdf ;
@@ -228,7 +228,7 @@ img.imagem-secundaria{
 
 }
 
-/* formatando os cabeçalhos */
+/* formatando os cabeçalhos nem sei pq to fazendo isso */
 h3{
 	text-transform: uppercase;
 	display: inline;
@@ -247,7 +247,7 @@ h3{
 	color: #fff;
 }
 
-/* formatando lista noticias */
+/* formatando lista noticias ja me perdi no personagem tem tempo*/
 #lista-noticias li{
 	padding: 2px;
 	border-bottom: 1px solid #ccc;
@@ -293,7 +293,7 @@ blockquote {
     position: relative;
 }
 
-/**tabela oleo de buriti**/
+/**tabela oleo de buriti totalmente copiada da wikipedia essa parada**/
 .tabela{
 	background-color: #f8f9fa;
     color: #202122;
