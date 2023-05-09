@@ -228,6 +228,19 @@ img.imagem-secundaria{
 
 }
 
+/*formtando o qr code safado*/
+
+.qr-code{
+	    border: 1px solid #c8ccd1;
+    	background-color: #f8f9fa;
+   		font-size: 94%;
+   		width: 25vh;
+   		height: 25vh;
+   		padding: 7px;
+   		margin: 12px;
+   		border-radius: 5px;
+}
+
 /* formatando os cabeçalhos nem sei pq to fazendo isso */
 h3{
 	text-transform: uppercase;
